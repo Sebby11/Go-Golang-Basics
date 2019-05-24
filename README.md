@@ -12,6 +12,8 @@ After this you may create your Go workspace.
 
 To create go files in Terminal type: `touch Name_Of_File.go`
 
+To run Go files on Terminal type: `go run name_of_file.go`
+
 ## Getting This Repository on your machine
 
 If you're using terminal you want to type: `git clone [url]`
