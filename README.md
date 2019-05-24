@@ -1,6 +1,6 @@
 # BASICS FOR GO - GOLANG - GOPHER!
 
-I created this to contain the basic functions in Go. It first came as practice for me, but am hoping it will help others out as well.
+I created this to contain the basic functions of Go. It first came as practice for me, but am hoping it will help others out as well.
 
 ## Getting Started with GO
 
