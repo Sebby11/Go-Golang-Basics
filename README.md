@@ -24,7 +24,9 @@ The "[url]" will be found inside the green button that says "clone or download".
 1.) To clone a repository to your local machine: `git clone [url]`
 
 2.) Letting git know which files to track in repository: 
+     
      -> To add all files: `git add`
+     
      -> To add a singular file `git add [filepath]`
 
 3.) Commit changes / create snapshot update: `git commit -m "[message]"`
