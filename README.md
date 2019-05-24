@@ -15,7 +15,7 @@ To create go files in Terminal type: `touch Name_Of_File.go`
 ## Getting This Repository on your machine
 
 If you're using terminal you want to type: `git clone [url]`
-The "[url]" will be found inside the green button that says "clone or download"
+The "[url]" will be found inside the green button that says "clone or download". Make sure you're cloning it somewhere you can get to easily!
 
 ## Basic git commands
 
